@@ -1,0 +1,36 @@
+.listStyle {
+  list-style-type: none;
+  margin-bottom: 9px;
+  display: flex;
+  justify-content: space-between;
+}
+.listConttainer {
+  display: flex;
+  align-items: center;
+}
+.img-size {
+  height: 30px;
+  width: 30px;
+  margin-right: 25px;
+}
+.timeAcc {
+  font-weight: bold;
+  margin-right: 60px;
+}
+.title {
+  font-weight: bold;
+}
+.domain {
+  color: #64748b;
+  margin-left: 15px;
+}
+.del-img {
+  height: 20px;
+  width: 20px;
+}
+.img-Container {
+  width: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
